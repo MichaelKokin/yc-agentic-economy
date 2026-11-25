@@ -1,0 +1,121 @@
+year,rank,tag,n,pct
+2019,1,SaaS,67,18.2
+2019,2,Fintech,53,14.4
+2019,3,AI,47,12.8
+2019,4,B2B,45,12.2
+2019,5,Developer Tools,32,8.7
+2019,6,Marketplace,23,6.2
+2019,7,Education,17,4.6
+2019,8,E-commerce,15,4.1
+2019,9,Hardware,15,4.1
+2019,10,Machine Learning,14,3.8
+2019,11,Consumer,14,3.8
+2019,12,Climate,13,3.5
+2019,13,Payments,12,3.3
+2019,14,Recruiting,11,3.0
+2019,15,Gaming,11,3.0
+2020,1,SaaS,123,28.1
+2020,2,B2B,103,23.5
+2020,3,Fintech,79,18.0
+2020,4,AI,68,15.5
+2020,5,Developer Tools,49,11.2
+2020,6,Marketplace,30,6.8
+2020,7,Machine Learning,27,6.2
+2020,8,E-commerce,19,4.3
+2020,9,Health Tech,18,4.1
+2020,10,Healthcare,17,3.9
+2020,11,Open Source,17,3.9
+2020,12,Education,16,3.7
+2020,13,Biotech,15,3.4
+2020,14,Data Engineering,14,3.2
+2020,15,Climate,14,3.2
+2021,1,SaaS,213,29.4
+2021,2,B2B,180,24.8
+2021,3,Fintech,139,19.2
+2021,4,AI,136,18.8
+2021,5,Developer Tools,67,9.2
+2021,6,Marketplace,53,7.3
+2021,7,E-commerce,45,6.2
+2021,8,Consumer Health Services,33,4.6
+2021,9,Climate,32,4.4
+2021,10,Education,32,4.4
+2021,11,Machine Learning,30,4.1
+2021,12,Consumer,26,3.6
+2021,13,Healthcare,24,3.3
+2021,14,Payments,23,3.2
+2021,15,Hard Tech,21,2.9
+2022,1,B2B,190,30.1
+2022,2,AI,188,29.8
+2022,3,SaaS,172,27.3
+2022,4,Fintech,144,22.8
+2022,5,Consumer,59,9.4
+2022,6,Developer Tools,59,9.4
+2022,7,Marketplace,36,5.7
+2022,8,Machine Learning,35,5.5
+2022,9,Generative AI,34,5.4
+2022,10,Payments,34,5.4
+2022,11,E-commerce,32,5.1
+2022,12,API,31,4.9
+2022,13,Crypto / Web3,29,4.6
+2022,14,Analytics,28,4.4
+2022,15,Climate,27,4.3
+2023,1,AI,230,46.6
+2023,2,B2B,149,30.2
+2023,3,SaaS,129,26.1
+2023,4,Developer Tools,81,16.4
+2023,5,Generative AI,75,15.2
+2023,6,Fintech,57,11.5
+2023,7,Open Source,34,6.9
+2023,8,Healthcare,33,6.7
+2023,9,AI Assistant,28,5.7
+2023,10,Analytics,25,5.1
+2023,11,Machine Learning,24,4.9
+2023,12,API,24,4.9
+2023,13,Enterprise,23,4.7
+2023,14,Health Tech,22,4.5
+2023,15,Consumer,20,4.0
+2024,1,AI,361,61.2
+2024,2,B2B,141,23.9
+2024,3,SaaS,87,14.7
+2024,4,Developer Tools,79,13.4
+2024,5,Generative AI,52,8.8
+2024,6,Consumer,42,7.1
+2024,7,AI Assistant,40,6.8
+2024,8,Fintech,40,6.8
+2024,9,Healthcare,26,4.4
+2024,10,Productivity,25,4.2
+2024,11,Infrastructure,24,4.1
+2024,12,Enterprise Software,22,3.7
+2024,13,Machine Learning,21,3.6
+2024,14,Automation,21,3.6
+2024,15,Biotech,21,3.6
+2025,1,AI,346,55.9
+2025,2,B2B,130,21.0
+2025,3,Developer Tools,76,12.3
+2025,4,SaaS,67,10.8
+2025,5,Infrastructure,36,5.8
+2025,6,Generative AI,32,5.2
+2025,7,Consumer,29,4.7
+2025,8,Fintech,27,4.4
+2025,9,AI Assistant,26,4.2
+2025,10,Robotics,26,4.2
+2025,11,Hardware,25,4.0
+2025,12,Open Source,24,3.9
+2025,13,Enterprise Software,24,3.9
+2025,14,Manufacturing,23,3.7
+2025,15,Machine Learning,23,3.7
+2026,1,AI,384,44.9
+2026,2,B2B,123,14.4
+2026,3,Developer Tools,74,8.7
+2026,4,Robotics,65,7.6
+2026,5,Infrastructure,61,7.1
+2026,6,Hardware,58,6.8
+2026,7,SaaS,53,6.2
+2026,8,Hard Tech,53,6.2
+2026,9,Fintech,43,5.0
+2026,10,Manufacturing,38,4.4
+2026,11,Enterprise Software,34,4.0
+2026,12,Machine Learning,32,3.7
+2026,13,Reinforcement Learning,26,3.0
+2026,14,Automation,26,3.0
+2026,15,Consumer,26,3.0

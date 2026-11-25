@@ -1,0 +1,179 @@
+batch,name,one_liner,agent_infra_hits,yc_url
+W25,assistant-ui,Open Source React.js Library for AI Chat,agent frameworks,https://www.ycombinator.com/companies/assistant-ui
+W25,Butter,Embedded Sandboxes for Agents,for Agents,https://www.ycombinator.com/companies/butter
+W25,Codevisor,The fastest native app for agentic engineering.,Run Claude Code,https://www.ycombinator.com/companies/codevisor
+W25,Confident AI,Production Monitoring & Evals for AI Agents,for AI Agents; MCP; AI observability; Evals for AI Agents,https://www.ycombinator.com/companies/confident-ai
+W25,Dexto,AWS for AI Agents,for AI Agents,https://www.ycombinator.com/companies/dexto
+W25,Finbar,Financial intelligence for every investor,MCP,https://www.ycombinator.com/companies/finbar
+W25,Leaping AI,AI voice and texting agents,AI agents can hold,https://www.ycombinator.com/companies/leaping-ai
+W25,Mastra,"The Javascript framework for building AI agents, from the Gatsby devs",for building AI agents; agent memory,https://www.ycombinator.com/companies/mastra
+W25,Osmosis,Reinforcement Learning (RL) for AI Agents,for AI Agents,https://www.ycombinator.com/companies/osmosis
+W25,Pickle,The personal AI agent network for Asia,A2A; Agent-to-Agent,https://www.ycombinator.com/companies/pickle-2
+W25,Thirdlayer,Continual learning for enterprise AI,give agents,https://www.ycombinator.com/companies/thirdlayer
+X25,Airweave,The open-source context retrieval layer for agents,for agents,https://www.ycombinator.com/companies/airweave
+X25,Blaxel,The infrastructure for autonomous agents,for autonomous agents,https://www.ycombinator.com/companies/blaxel
+X25,Capacitive,The data gateway for agents.,for agents,https://www.ycombinator.com/companies/capacitive
+X25,Clarm,"Build governed AI agents on your own data, without code",governed AI agents,https://www.ycombinator.com/companies/clarm
+X25,Cotool,Security operations optimized for agents.,for agents,https://www.ycombinator.com/companies/cotool
+X25,Cua,Give every agent a cloud desktop,OpenClaw,https://www.ycombinator.com/companies/cua
+X25,Golf,Agentic AI Security and Governance,MCP,https://www.ycombinator.com/companies/golf
+X25,Mbodi AI,Industrial Robots that Learn and Operate Like Humans,agent orchestration,https://www.ycombinator.com/companies/mbodi-ai
+X25,Naïve,Autonomous Company Infrastructure,agent infrastructure; for AI to operate,https://www.ycombinator.com/companies/naive
+X25,Parsewise,"Multi-document processing for your risk teams, AI agents, pipelines",MCP,https://www.ycombinator.com/companies/parsewise
+X25,StarSling,Agent-native GitHub Actions runners,Agent-native,https://www.ycombinator.com/companies/starsling
+X25,Vesence,The Agent-Native Computer,for agents; Agent-Native; Run Claude Code,https://www.ycombinator.com/companies/vesence
+S25,AgentMail,Email Inboxes for AI Agents,for AI Agents; gives agents,https://www.ycombinator.com/companies/agentmail
+S25,Alter,Privileged Access Management for AI Agents,for AI Agents,https://www.ycombinator.com/companies/alter
+S25,Autosana,AI agents for E2E testing across mobile & web,for your coding agents,https://www.ycombinator.com/companies/autosana
+S25,ContextFort,Visibility and Controls for Browser Agents,for Browser Agents,https://www.ycombinator.com/companies/contextfort
+S25,Convexia,The world's first AI-maximalist pharma company,agents to buy,https://www.ycombinator.com/companies/convexia
+S25,Dedalus Labs,Persistent computers for AI agents,for AI agents; gives agents,https://www.ycombinator.com/companies/dedalus-labs
+S25,Floot,The app platform inside Claude and ChatGPT.,for AI to operate,https://www.ycombinator.com/companies/floot
+S25,Janet AI,Agents that learn your company and work 24/7,agent memory,https://www.ycombinator.com/companies/tryjanet
+S25,KERNEL,"Crazy fast, open source infra for AI agents to use the Internet",for AI agents; AI agents to use,https://www.ycombinator.com/companies/kernel
+S25,LLM Stats,Independent AI evaluations lab,AI evaluations,https://www.ycombinator.com/companies/llm-stats
+S25,Manufact,Cloud infrastructure for MCP servers and Claude / ChatGPT plugins.,MCP,https://www.ycombinator.com/companies/manufact
+S25,Monte,Specialized Models for Agents,for Agents,https://www.ycombinator.com/companies/monte
+S25,Notte,"Browser infra for AI agents: sessions, auth, proxies, payments",for AI agents,https://www.ycombinator.com/companies/notte
+S25,Okibi,Turns products into CLIs and agents into customers,AI agents can use,https://www.ycombinator.com/companies/okibi
+S25,Playgent,Sandboxes for AI agents,for AI agents; MCP,https://www.ycombinator.com/companies/playgent
+S25,Slashy,Cursor for Email,MCP,https://www.ycombinator.com/companies/slashy
+S25,Theora,Building medical school for AI Agents,for AI Agents,https://www.ycombinator.com/companies/theora
+S25,Trace,Context-aware orchestration between humans and AI.,gives agents,https://www.ycombinator.com/companies/trace-so
+S25,Veritus,AI agents for the consumer lending industry,for deploying AI agents,https://www.ycombinator.com/companies/veritus
+F25,Aside,The browser built to do real work for you,lets agents,https://www.ycombinator.com/companies/aside
+F25,dari.dev,The Routing Layer for AI Agents,for AI Agents; with Claude Code,https://www.ycombinator.com/companies/daridev
+F25,hillclimb,Training Data for Recursive Self-Improvement,help train their agents,https://www.ycombinator.com/companies/hillclimb
+F25,Hyperspell,Your Company Brain,agent can read,https://www.ycombinator.com/companies/hyperspell
+F25,Kestrel AI,AI Agents for Platform Engineering,MCP,https://www.ycombinator.com/companies/kestrel-ai
+F25,Lemma,Production Monitoring for AI agents,for AI agents,https://www.ycombinator.com/companies/uselemma
+F25,Locus,Payment infrastructure for AI agents,for AI agents,https://www.ycombinator.com/companies/locus
+F25,Metorial,Open-source MCP gateway for AI enablement: MCP servers and Skills for…,MCP,https://www.ycombinator.com/companies/metorial
+F25,Multifactor,"Zero-trust authentication, authorization, and auditing for AI agents",for AI agents; allows agents,https://www.ycombinator.com/companies/multifactor
+F25,Nessie,"Shared context across ChatGPT, Claude, Codex, Cursor and more",MCP,https://www.ycombinator.com/companies/nessie
+F25,Sourcebot,Helping humans and AI agents understand massive codebases,For AI agents,https://www.ycombinator.com/companies/sourcebot
+F25,Specific,The cloud platform built for coding agents,for coding agents,https://www.ycombinator.com/companies/specific
+F25,The Context Company,Find what's losing you customers and money in your AI agent and fix it,agent framework; MCP,https://www.ycombinator.com/companies/the-context-company
+F25,The Hog,Real-time web intelligence API for AI agents and GTM teams,for AI agents,https://www.ycombinator.com/companies/the-hog
+F25,Zalos,Hire Zalos AI workers to run your finance department,agent harness,https://www.ycombinator.com/companies/zalos
+W26,21st,UI building blocks for the agentic internet,agentic internet,https://www.ycombinator.com/companies/21st
+W26,Agentic Fabriq,The control plane for AI agents.,for AI agents; AI agents can access,https://www.ycombinator.com/companies/agentic-fabriq
+W26,Anchorhead,Evals for frontier research agents,Evals for frontier research agents,https://www.ycombinator.com/companies/anchorhead
+W26,Captain,Agent Infra for File Search,Agent Infra; MCP,https://www.ycombinator.com/companies/captain
+W26,Compresr,LLM context compression for better accuracy,for agents,https://www.ycombinator.com/companies/compresr
+W26,Emdash,One app for all your coding agents,for all your coding agents; MCP; let agents,https://www.ycombinator.com/companies/emdash
+W26,End Close,AI powered reconciliation for high-volume payments companies,agent payments; agent-to-agent,https://www.ycombinator.com/companies/end-close
+W26,Klaus AI,Fast and Safe OpenClaw on the cloud,OpenClaw,https://www.ycombinator.com/companies/klaus-ai
+W26,Lance,AI Agents That Run Hotel Operations.,agents can navigate,https://www.ycombinator.com/companies/lance
+W26,Maven,Payments for Conversational Agents,for Conversational Agents,https://www.ycombinator.com/companies/maven
+W26,Moda,Your agents should never make the same mistake twice.,helps you engineer better agents,https://www.ycombinator.com/companies/moda
+W26,OpenSpec,Plan mode for complex features,for their coding agents,https://www.ycombinator.com/companies/openspec
+W26,Orthogonal,The Data Marketplace for Agents,for Agents,https://www.ycombinator.com/companies/orthogonal
+W26,Polymath,Simulation environments for training & evaluating autonomous agents,evaluating autonomous agents,https://www.ycombinator.com/companies/polymath
+W26,Quotient Labs,Use Claude Code at 47% less cost in one line of installation.,Use Claude Code,https://www.ycombinator.com/companies/quotient-labs
+W26,Ressl AI,"Train, eval and build autonomous agents","Train, eval and build autonomous agents",https://www.ycombinator.com/companies/ressl-ai
+W26,Salus,Guardrails to validate your agent's actions before they execute,agent's actions,https://www.ycombinator.com/companies/salus
+W26,Sentrial,Datadog for Agent Reliability,Agent Reliability,https://www.ycombinator.com/companies/sentrial
+W26,Sitefire,Marketing suite for the agentic web,agentic web; OpenClaw,https://www.ycombinator.com/companies/sitefire
+W26,Skillsync,Search your agent session history,agent session,https://www.ycombinator.com/companies/skillsync
+W26,Sponge,Financial infrastructure for the agent economy,for agents; agent economy; agents to hold; lets agents,https://www.ycombinator.com/companies/sponge
+W26,Talking Computers,Real-time interaction models for voice agents,for voice agents,https://www.ycombinator.com/companies/talking-computers
+W26,Zatanna,Building the infrastructure for AI to interact with software,for AI to interact,https://www.ycombinator.com/companies/zatanna
+W26,ZeroSettle,iMessage API for businesses and AI agents,MCP,https://www.ycombinator.com/companies/zerosettle
+X26,AgentPhone,Phone Numbers for AI Agents,for AI Agents,https://www.ycombinator.com/companies/agentphone
+X26,Allowance,The spend control layer for AI agents,for AI agents; lets AI agents,https://www.ycombinator.com/companies/allowance
+X26,Arctic Health,AI-native credentialing and contracting for healthcare,enable AI agents,https://www.ycombinator.com/companies/arctic-health
+X26,Ardent,Database sandboxes for Agents,for Agents,https://www.ycombinator.com/companies/ardent
+X26,Arga Labs,Real-world sandboxes to test and train AI agents,MCP,https://www.ycombinator.com/companies/arga-labs
+X26,Armature,We get your product picked by coding agents.,MCP,https://www.ycombinator.com/companies/armature
+X26,Callab AI,Human-centered AI for contact centers.,lets teams deploy AI agents,https://www.ycombinator.com/companies/callab-ai
+X26,Chronicle Labs,Staging Environments for Enterprise AI Agents,for Enterprise AI Agents,https://www.ycombinator.com/companies/chronicle-labs
+X26,Current,Run hundreds of coding agents and stay in control,with Claude Code,https://www.ycombinator.com/companies/current
+X26,Enjamb Labs,The AI Workforce for Biopharma,MCP,https://www.ycombinator.com/companies/enjamb-labs
+X26,Humwork,Human experts as API for AI Agents,for AI Agents; MCP; lets AI agents; OpenClaw,https://www.ycombinator.com/companies/humwork
+X26,InstaBox,Cloud computers for AI agents,for AI agents,https://www.ycombinator.com/companies/instabox
+X26,Klaimee,"Liability insurance for AI Agents. You deploy agents, we cover you.",for AI Agents,https://www.ycombinator.com/companies/klaimee
+X26,Limrun,"Extend cloud sandboxes with iOS, Android and more",enable coding agents,https://www.ycombinator.com/companies/limrun
+X26,Manicule,AgentRel — Devrel For Agents,For Agents,https://www.ycombinator.com/companies/manicule
+X26,Minicor,Scalable windows desktop automations,MCP,https://www.ycombinator.com/companies/minicor
+X26,OpenWork,The open source alternative to Claude Cowork,MCPs,https://www.ycombinator.com/companies/openwork
+X26,primitive,communication for agents,for agents,https://www.ycombinator.com/companies/primitive
+X26,Probe,The Agent-Native Research Stack,Agent-Native,https://www.ycombinator.com/companies/probe
+X26,ProjectX,Agent native workspace for heavy parallel workflows on the web ,Agent native,https://www.ycombinator.com/companies/projectx
+X26,Rainbrand,The brand layer for agents.,for agents; MCP,https://www.ycombinator.com/companies/rainbrand
+X26,RentAHuman,Marketplace for AI agents to hire humans.,for AI agents; AI agents to hire,https://www.ycombinator.com/companies/rentahuman
+X26,Replicas,Run any coding agent harness in the cloud,agent harness,https://www.ycombinator.com/companies/replicas
+X26,Runtime,The AI agent harness for payment teams,agent harness,https://www.ycombinator.com/companies/runtime
+X26,Scope,We help software companies get discovered and used by AI agents,agent experience; MCP,https://www.ycombinator.com/companies/scope
+X26,Silmaril,Security for agents that self-improves,for agents; agentic frameworks,https://www.ycombinator.com/companies/silmaril
+X26,Soria,AI Financial Research Terminal built for Healthcare (and beyond),MCP,https://www.ycombinator.com/companies/soria
+X26,Tasklet,Agents that own the work,agent runtime; MCP,https://www.ycombinator.com/companies/tasklet-2
+X26,Userlens,Let agents talk to your customers,Let agents,https://www.ycombinator.com/companies/userlens
+X26,Vespin,An inbox for your coding agents,for your coding agents,https://www.ycombinator.com/companies/vespin
+X26,Wakeshift,The Wake-up Call for AI Agents,for AI Agents; MCP,https://www.ycombinator.com/companies/wakeshift
+X26,Wato,The control point for AI agents at work.,for AI agents; gives AI agents,https://www.ycombinator.com/companies/wato
+S26,Agentcard,let agents buy anything online,let agents,https://www.ycombinator.com/companies/agentcard
+S26,Agnost AI,"We find where AI agents fail, then train better models to run them",agents framework; MCP; monitors AI agents,https://www.ycombinator.com/companies/agnost-ai
+S26,Amorphic Labs,OpenRouter for Agent Tools,for agents; MCP,https://www.ycombinator.com/companies/amorphic-labs
+S26,Archal,"API sandboxes, built for AI agents",for AI agents,https://www.ycombinator.com/companies/archal
+S26,"Autoresearch, Inc.",Autoresearch as a service: we solve your hardest measurable problems,helps teams train agents,https://www.ycombinator.com/companies/autoresearch-inc
+S26,Bizmark,OpenClaw for manufacturers,OpenClaw,https://www.ycombinator.com/companies/bizmark
+S26,Click,Managed Agents API,Agents API,https://www.ycombinator.com/companies/click
+S26,CoArena,The biggest crowdsourced benchmark for Computer-Use,computer-use models,https://www.ycombinator.com/companies/coarena
+S26,Codag,"The AI gateway for cheaper, faster, permissioned agents.",AI gateway,https://www.ycombinator.com/companies/codag
+S26,Context.dev,Web data API for agents,for agents; gives AI agents,https://www.ycombinator.com/companies/contextdev
+S26,Executor,The open source tool gateway,MCP; agents to access,https://www.ycombinator.com/companies/executor
+S26,Experiential Labs,Open source AI gateway that turns your traffic into better models,AI gateway,https://www.ycombinator.com/companies/experiential-labs
+S26,Fabraix,The world's frontier hacker of AI agents.,AI red-teaming,https://www.ycombinator.com/companies/fabraix
+S26,Financial Datasets,Connect your agents to the stock market ,for agents,https://www.ycombinator.com/companies/financial-datasets
+S26,GitCafe,The Git forge for the next hundred billion commits,for agents,https://www.ycombinator.com/companies/gitcafe
+S26,Glen,Institutional Learning Layer for Every Agent in Your Company,agents context,https://www.ycombinator.com/companies/glen
+S26,Graphify Labs,Shared Context of Codebase for Agents and Developers ,for Agents,https://www.ycombinator.com/companies/graphify-labs
+S26,HyperProbe,AI engineer that debugs and fixes production incidents in realtime,allows agents,https://www.ycombinator.com/companies/hyperprobe
+S26,Inkbox,"Give agents a computer with their own email, phone, iMsg, and WhatsApp",Give agents,https://www.ycombinator.com/companies/inkbox
+S26,Jcode,High performance coding agents,agent harness,https://www.ycombinator.com/companies/jcode
+S26,LATO,Predict how market participants behave,agent-native,https://www.ycombinator.com/companies/lato
+S26,machine0,AWS for Agents,for Agents; agent compute; MCP,https://www.ycombinator.com/companies/machine0
+S26,Mireye,Search Engine for the Physical World,for agents; MCP,https://www.ycombinator.com/companies/mireye
+S26,Nex,Grok bot for GTM & Revenue teams,build and deploy AI agents,https://www.ycombinator.com/companies/nex
+S26,Rindler,The IDE for Tokenmaxxers,agent session,https://www.ycombinator.com/companies/rindler
+S26,Robocurve,Evals for robots,AI evals,https://www.ycombinator.com/companies/robocurve
+S26,Tarifflo Inc.,Supply chain compliance and cost savings,MCP,https://www.ycombinator.com/companies/tarifflo-inc
+S26,Tenor,Infrastructure for building and scaling AI-native businesses.,agent framework,https://www.ycombinator.com/companies/tenor
+S26,Tokenless,We find flaws in RL environments and evals and help you fix them.,agent evals,https://www.ycombinator.com/companies/tokenless
+S26,Traceforce,CrowdStrike for AI Agents,for AI Agents,https://www.ycombinator.com/companies/traceforce
+F26,Agent 37,Cheapest sandbox for AI agents,for AI agents,https://www.ycombinator.com/companies/agent-37
+F26,Ample Computer,The one-stop cloud for agents to ship complex web apps,for agents,https://www.ycombinator.com/companies/ample-computer
+F26,Axiomat,AI that never hallucinates.,for AI agents,https://www.ycombinator.com/companies/axiomat
+F26,Boat,The best cloud VMs for billions of agents,agents can use,https://www.ycombinator.com/companies/boat
+F26,Boxes.dev,A better place to run your coding agents.,Run Claude Code,https://www.ycombinator.com/companies/boxesdev
+F26,Clean,Revenue intelligence for agents and sales teams.,for agents; gives agents,https://www.ycombinator.com/companies/clean
+F26,Fire Wallet,"Fire Wallet is a privacy-first crypto wallet designed to just work,…",agentic commerce,https://www.ycombinator.com/companies/fire-wallet
+F26,FlashDrive,A shared drive for your team and all your AI agents.,MCP,https://www.ycombinator.com/companies/flashdrive
+F26,herdr,building the open agent runtime,agent runtime,https://www.ycombinator.com/companies/herdr
+F26,Hue,Realistic worlds for agent evaluation,agent evaluation,https://www.ycombinator.com/companies/hue
+F26,Jinko,Travel Search & Booking Infrastructure for AI agents,for AI agents,https://www.ycombinator.com/companies/jinko
+F26,Lantern AI,Agentic Recruiting Platform for Enterprise ,agent-native,https://www.ycombinator.com/companies/lantern-ai
+F26,Letter,The coding agent and IDE for the agentic internet,for agents; agentic internet,https://www.ycombinator.com/companies/letter-dev
+F26,Maritime,The managed cloud for AI agents.,for AI agents,https://www.ycombinator.com/companies/maritime
+F26,Mirrors,Give AI agents situation-specific context,agent framework; Give AI agents,https://www.ycombinator.com/companies/mirrors
+F26,ObsessionDB,Real-time data warehouse for agents,for agents; agent analytics,https://www.ycombinator.com/companies/obsessiondb
+F26,OpenCrawl,Multiplayer for your coding agents.,for your coding agents,https://www.ycombinator.com/companies/opencrawl
+F26,Orgo,Computers for Agents,for Agents,https://www.ycombinator.com/companies/orgo
+F26,Papaya,Continuously improve the quality of your AI agents.,for AI agents,https://www.ycombinator.com/companies/papaya
+F26,Phone Harness,Let your agent control your phone,enable agents,https://www.ycombinator.com/companies/phone-harness
+F26,Plek AI,The AI company brain for PE value creation,MCP,https://www.ycombinator.com/companies/plek-ai
+F26,Plover Labs,Enable enterprises to ship agent code without human review,for agents,https://www.ycombinator.com/companies/plover-labs
+F26,Pomerado,"Turn any website into an MCP for your agents, in minutes",for your agents; MCP,https://www.ycombinator.com/companies/pomerado
+F26,Rezora IO,Shopify for AI voice agents: home services live in 10 minutes,for AI voice agents,https://www.ycombinator.com/companies/rezora-io
+F26,Routant,Last mile deployment and connectivity for Agents as a Service,for Agents; agents can access,https://www.ycombinator.com/companies/routant
+F26,Rystic,Test agents and code changes in high-fidelity simulated environments,agent evals,https://www.ycombinator.com/companies/rystic
+F26,Simantic,Firmware simulation for AI agents,for AI agents,https://www.ycombinator.com/companies/simantic
+F26,Stacktrace,Give agents autonomy without losing control,Give agents,https://www.ycombinator.com/companies/stacktrace
+F26,Summer Engine,The AI game engine.,let agents,https://www.ycombinator.com/companies/summer-engine
+F26,Superserve,Virtual machines for long-running agents,For agents; agent session,https://www.ycombinator.com/companies/superserve
+F26,Terse,Durable state for AI agents,for AI agents; agent frameworks,https://www.ycombinator.com/companies/useterse
+F26,The Company Company,The operating system for tech startups.,agent runtime,https://www.ycombinator.com/companies/the-company-company
+F26,Tilion,"Super fast, unblockable browser infra for agents",for agents,https://www.ycombinator.com/companies/tilion
+F26,Tilo,The Microsoft of the AI era: the operating system for AI agents.,for AI agents; MCP; gives AI agents,https://www.ycombinator.com/companies/tilo
+F26,Versine,The agent-first consumer bank.,for AI agents; MCP,https://www.ycombinator.com/companies/versine

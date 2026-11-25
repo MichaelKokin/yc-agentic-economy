@@ -1,0 +1,199 @@
+batch,name,one_liner,manual_agent_infra,manual_sas,regex_agent_infra,regex_sas,yc_url
+W26,/dev/fast,/dev/fast is the AI-native code forge,False,,False,False,https://www.ycombinator.com/companies/devfast
+W26,10x Science,The AI-native platform for next-generation protein characterization.,False,,False,False,https://www.ycombinator.com/companies/10x-science
+W26,21st,UI building blocks for the agentic internet,True,,True,False,https://www.ycombinator.com/companies/21st
+W26,Aemon,The Forward-Deployed AI Research Engineer ,False,worker,False,True,https://www.ycombinator.com/companies/aemon
+W26,Agentic Fabriq,The control plane for AI agents.,True,,True,False,https://www.ycombinator.com/companies/agentic-fabriq
+W26,Alt-X,Building the best venue for private markets exposure.,False,,False,False,https://www.ycombinator.com/companies/alt-x
+W26,Anchorhead,Evals for frontier research agents,True,,True,False,https://www.ycombinator.com/companies/anchorhead
+W26,ARC Prize Foundation,AI benchmarks that measure general intelligence and inspire new ideas,False,,False,False,https://www.ycombinator.com/companies/arc-prize-foundation
+W26,Ashr,Ashr is the Coding Agent for Machine Learning,False,,False,False,https://www.ycombinator.com/companies/ashr
+W26,Asimov,Real-world human movement data for humanoid robots,False,,False,False,https://www.ycombinator.com/companies/asimov
+W26,Aurorin CAD,Claude code for Mechanical Engineers,False,,False,False,https://www.ycombinator.com/companies/aurorin-cad
+W26,AutoSitu,The AI operating system for the built world,False,,False,False,https://www.ycombinator.com/companies/autositu
+W26,Autumn,The people-intelligence company.,False,,False,False,https://www.ycombinator.com/companies/autumn-ai
+W26,Avoice,AI-native workspace for AEC,False,,False,False,https://www.ycombinator.com/companies/avoice
+W26,AxionOrbital Space,Foundation models for 24/7 Earth Observation,False,,False,False,https://www.ycombinator.com/companies/axionorbital-space
+W26,Axis,An AI Copilot for Trading Desks,False,,False,False,https://www.ycombinator.com/companies/axis-2
+W26,Balance,Full-Stack AI Accounting,False,firm,False,True,https://www.ycombinator.com/companies/getbalance
+W26,BaseFrame,Detect what AI can automate for your team,False,,False,False,https://www.ycombinator.com/companies/baseframe
+W26,Beacon Health,AI Employees for Primary Care,False,worker,False,True,https://www.ycombinator.com/companies/beacon-health
+W26,BeeSafe AI,Frontier AI Defenses for Social Engineering Attacks,False,,False,False,https://www.ycombinator.com/companies/beesafe-ai
+W26,Beyond Reach Labs,Space solar arrays that grow to the size of a football field in orbit,False,,False,False,https://www.ycombinator.com/companies/beyond-reach-labs
+W26,Bidflow,Revolutionizing the Construction Industry,False,,False,False,https://www.ycombinator.com/companies/bidflow
+W26,Booko,Dynamically pricing the whole economy. ,False,,False,False,https://www.ycombinator.com/companies/booko
+W26,Brumby,Robot Cowboys that Herd Cattle with AI Drones,False,,False,False,https://www.ycombinator.com/companies/brumby
+W26,Bubble Lab,The intelligence layer for communities and events.,False,,False,False,https://www.ycombinator.com/companies/bubble-lab
+W26,Burt,AI teammates for logistics,False,worker,False,True,https://www.ycombinator.com/companies/burt
+W26,Button Computer,The tiny computer built for voice AI.,False,,False,False,https://www.ycombinator.com/companies/button-computer
+W26,Byteport,Global upload acceleration for 1GB-100TB files.,False,,False,False,https://www.ycombinator.com/companies/byteport
+W26,Cajal,Scaling formal verification to accelerate scientific discovery,False,,False,False,https://www.ycombinator.com/companies/cajal-technologies
+W26,Canary,Adversarial AI that breaks your AI,False,,False,True,https://www.ycombinator.com/companies/canary
+W26,Captain,Agent Infra for File Search,True,,True,False,https://www.ycombinator.com/companies/captain
+W26,Cardboard,AI video editor (raw footage into finished videos),False,,False,False,https://www.ycombinator.com/companies/cardboard
+W26,Cardinal,Revenue Agents for GTM teams,False,,False,False,https://www.ycombinator.com/companies/trycardinal-ai
+W26,Caretta,Realtime AI for Sales Calls,False,,False,False,https://www.ycombinator.com/companies/caretta
+W26,Carrot Labs,AI Cost Management: Track and attribute AI spend across every provider,False,,False,False,https://www.ycombinator.com/companies/carrot-labs
+W26,CatchBack Cards,The most thrilling way to create and rip digital collectible packs,False,,False,False,https://www.ycombinator.com/companies/catchback-cards
+W26,CellType,The agentic drug company. We simulate human biology.,False,,False,False,https://www.ycombinator.com/companies/celltype
+W26,Chamber,The AIOps Agent for ML Teams,False,,False,False,https://www.ycombinator.com/companies/chamber
+W26,Chasi,AI Revenue Engine for the Equipment Industry ,False,,False,False,https://www.ycombinator.com/companies/chasi
+W26,ClaimGlide,AI automated prior-auths for private medical practices,False,,False,False,https://www.ycombinator.com/companies/claimglide
+W26,CodeWisp,Anyone can create real games with AI,False,,False,False,https://www.ycombinator.com/companies/codewisp
+W26,Cofia,AI automations that implement themselves,False,,False,False,https://www.ycombinator.com/companies/cofia
+W26,Compresr,LLM context compression for better accuracy,True,,True,False,https://www.ycombinator.com/companies/compresr
+W26,Condor Energy,Software for enterprise energy procurement.,False,,False,False,https://www.ycombinator.com/companies/condor-energy
+W26,Confluence Labs,AI models that learn from experience,False,,False,False,https://www.ycombinator.com/companies/confluence-labs
+W26,Congruent,AI native radars for self-driving cars,False,,False,False,https://www.ycombinator.com/companies/congruent
+W26,Constellation Space,AI operating system for mega-scale satellite networks. ,False,,False,False,https://www.ycombinator.com/companies/constellation-space
+W26,Copperlane,Agentic Mortgage Origination,False,,False,False,https://www.ycombinator.com/companies/copperlane
+W26,Corelayer,AI production engineer for regulated industries,False,worker,False,True,https://www.ycombinator.com/companies/corelayer
+W26,Corvera,The AI sales agent for CPG brands,False,,False,False,https://www.ycombinator.com/companies/corvera
+W26,Crosslayer Labs,"Protect, monitor and defend your Internet presence",False,,False,False,https://www.ycombinator.com/companies/crosslayer-labs
+W26,Cumulus Labs,The Fastest Multimodal Inference OS,False,,False,False,https://www.ycombinator.com/companies/cumulus-labs
+W26,DAIVIN!,"Tankless Dive Gear - Breath Autonomy at Sea, Land & Space",False,,False,False,https://www.ycombinator.com/companies/daivin
+W26,Didit,Infrastructure for identity and fraud.,False,,False,False,https://www.ycombinator.com/companies/didit
+W26,Ditto Biosciences,Evolutionary intelligence for autoimmune disease,False,,False,False,https://www.ycombinator.com/companies/ditto-biosciences
+W26,Docura Health,AI-Native Med-Legal Firm,False,firm,False,True,https://www.ycombinator.com/companies/docura-health
+W26,Doomersion,Doomscroll to learn languages,False,,False,False,https://www.ycombinator.com/companies/doomersion
+W26,EigenPal,AI Document Workflows for Enterprises,False,,False,False,https://www.ycombinator.com/companies/eigenpal
+W26,Emdash,One app for all your coding agents,True,,True,False,https://www.ycombinator.com/companies/emdash
+W26,End Close,AI powered reconciliation for high-volume payments companies,False,,True,False,https://www.ycombinator.com/companies/end-close
+W26,Envariant,Interpretability and reasoning infra for foundation models.,False,,False,False,https://www.ycombinator.com/companies/envariant
+W26,Eos AI,Autonomous OS for healthcare,False,,False,False,https://www.ycombinator.com/companies/eos-ai
+W26,Fed10,AI Agents for Government Affairs,False,,False,False,https://www.ycombinator.com/companies/fed10
+W26,Fenrock AI,AI agents for banks,False,,False,False,https://www.ycombinator.com/companies/fenrock-ai
+W26,Fern,RL environments for robotics companies,False,,False,False,https://www.ycombinator.com/companies/fern-bot
+W26,Fixture,An agentic CRM built for Startups,False,,False,False,https://www.ycombinator.com/companies/fixture
+W26,Foreman,"Keeping contractors on the job site, not behind a desk.",False,,False,False,https://www.ycombinator.com/companies/foreman
+W26,Fort,Strength Tracking Wearable,False,,False,False,https://www.ycombinator.com/companies/fort
+W26,Forum,The first exchange to trade on attention.,False,,False,False,https://www.ycombinator.com/companies/forum
+W26,FullSeam,AI agents for corporate accounting teams,False,,False,False,https://www.ycombinator.com/companies/fullseam
+W26,General Astronautics,Superintelligent space Robots,False,,False,False,https://www.ycombinator.com/companies/generalastro
+W26,General Legal,Elite AI law firm for high growth companies,False,firm,False,True,https://www.ycombinator.com/companies/general-legal
+W26,Grade,The AI agent for affiliate and creator programs.,False,,False,False,https://www.ycombinator.com/companies/grade
+W26,GRU Space,Moon Hotel -> The Intergalactic Construction Company of Earth,False,,False,False,https://www.ycombinator.com/companies/gru-space
+W26,Haladir,Operational Intelligence for Global Logistics,False,,False,False,https://www.ycombinator.com/companies/haladir
+W26,Hlabs,US-Made Parts for Robots,False,,False,False,https://www.ycombinator.com/companies/hlabs
+W26,Human Archive,"Infrastructure for Training, Evaluating, and Deploying Physical AI",False,,False,False,https://www.ycombinator.com/companies/human-archive
+W26,IncidentFox,"AI SRE agent that triages, coordinates, and fixes production incidents",False,worker,False,True,https://www.ycombinator.com/companies/brownie
+W26,Instinct,Trade with superhuman instinct,False,,False,False,https://www.ycombinator.com/companies/instinct-xyz
+W26,InventoryQuant,We automate the inventory process in insurance,False,,False,False,https://www.ycombinator.com/companies/inventoryquant
+W26,Janeen,Prior auths and benefits investigation for infusion clinics ,False,,False,False,https://www.ycombinator.com/companies/janeen
+W26,Jinba,Automate enterprise workflows through chat,False,,False,False,https://www.ycombinator.com/companies/jinba
+W26,Khotan (formerly Pollinate),FDE as a platform for rebuilding critical operations in software.,False,,False,False,https://www.ycombinator.com/companies/khotan
+W26,Kita,Underwrite borrowers around the world in minutes,False,,False,False,https://www.ycombinator.com/companies/kita
+W26,Klaus AI,Fast and Safe OpenClaw on the cloud,True,,True,False,https://www.ycombinator.com/companies/klaus-ai
+W26,Kyten Technologies,Custom Aerospace-Grade Battery Packs,False,,False,False,https://www.ycombinator.com/companies/kyten-technologies
+W26,Lance,AI Agents That Run Hotel Operations.,False,,True,False,https://www.ycombinator.com/companies/lance
+W26,Laurence,The frontier operating system for marketers,False,,False,False,https://www.ycombinator.com/companies/laurence
+W26,LegalOS,The AI-Native Immigration Law Firm,False,firm,False,True,https://www.ycombinator.com/companies/legalos
+W26,Lexius,AI for Corporate Security Cameras,False,,False,False,https://www.ycombinator.com/companies/lexius
+W26,Lucent,AI that automatically improves products from user behavior,False,,False,False,https://www.ycombinator.com/companies/lucent
+W26,Luel,Turning everyday words and actions into usable training data.,False,,False,False,https://www.ycombinator.com/companies/luel
+W26,Mango Medical,Foundation models for planning orthopedic surgery,False,,False,False,https://www.ycombinator.com/companies/mango-medical-inc
+W26,Mantis,Digital Twins of humans,False,,False,False,https://www.ycombinator.com/companies/mantis
+W26,Martini,AI Video Production for Professionals,False,,False,False,https://www.ycombinator.com/companies/martini
+W26,Maven,Payments for Conversational Agents,True,,True,False,https://www.ycombinator.com/companies/maven
+W26,Maywood,The first finance-compliant proactive AI that runs 24/7,False,,False,False,https://www.ycombinator.com/companies/maywood
+W26,Mendelia,AI-powered back office employees for surgical practices,False,worker,False,True,https://www.ycombinator.com/companies/mendelia
+W26,Mendral,AI DevOps Engineer,False,worker,False,True,https://www.ycombinator.com/companies/mendral
+W26,Menza,The AI data analyst for consumer brands,False,worker,False,True,https://www.ycombinator.com/companies/menza
+W26,Milliray,Technology to detect and track small drones,False,,False,False,https://www.ycombinator.com/companies/milliray
+W26,Mirabelle,Your own chef at home,False,,False,False,https://www.ycombinator.com/companies/mirabelle
+W26,MochaCare,Agentic Management Service for Care Organizations,False,,False,False,https://www.ycombinator.com/companies/mochacare
+W26,Moda,Your agents should never make the same mistake twice.,True,,True,False,https://www.ycombinator.com/companies/moda
+W26,Moritz,Global AI-native law firm handling legal work with same-day turnaround,False,firm,False,True,https://www.ycombinator.com/companies/moritz
+W26,MouseCat,AI to fight financial crime,False,,False,False,https://www.ycombinator.com/companies/mousecat
+W26,Ndea,Building AGI that can innovate.,False,,False,False,https://www.ycombinator.com/companies/ndea-com
+W26,o11,OpenRouter wallet for paid goods and services,True,,False,False,https://www.ycombinator.com/companies/o11
+W26,OctaPulse,OctaPulse builds computer vision and robotics for fish farms and…,False,,False,False,https://www.ycombinator.com/companies/octapulse
+W26,One Robot,World models for robot evals and training.,False,,False,False,https://www.ycombinator.com/companies/one-robot
+W26,Opalite Health,Helping Healthcare Providers Speak Any Language ,False,,False,False,https://www.ycombinator.com/companies/opalite-health
+W26,OpenSpec,Plan mode for complex features,True,,True,False,https://www.ycombinator.com/companies/openspec
+W26,Origami Robotics,Manipulate Anything Robot,False,,False,False,https://www.ycombinator.com/companies/origami-robotics
+W26,Origin,AI and Data for Cancer Therapeutics,False,,False,False,https://www.ycombinator.com/companies/origin-bio
+W26,Orthogonal,The Data Marketplace for Agents,True,,True,False,https://www.ycombinator.com/companies/orthogonal
+W26,Ossus,Intelligence for cultural institutions,False,,False,False,https://www.ycombinator.com/companies/ossus
+W26,Overdrive Health,AI-Native Medical Billing Services,False,firm,False,True,https://www.ycombinator.com/companies/overdrive-health
+W26,Overshoot,We optimize inference stacks for teams,False,,False,False,https://www.ycombinator.com/companies/overshoot
+W26,Oximy,Take command of the AI your company already runs on.,False,,False,False,https://www.ycombinator.com/companies/oximy
+W26,Oxus,AI-powered automation for internal audit workflows,False,,False,False,https://www.ycombinator.com/companies/oxus
+W26,Palus Finance,Your startup's financial advisor,False,,False,False,https://www.ycombinator.com/companies/palus-finance
+W26,Panta,AI Native Commercial Insurance Brokerage ,False,firm,False,True,https://www.ycombinator.com/companies/panta
+W26,Parameter,"AI pentesting, that works!",False,,False,False,https://www.ycombinator.com/companies/parameter
+W26,Patientdesk.ai,AI front & back office agent for dental practices ,False,,False,False,https://www.ycombinator.com/companies/patientdeskai
+W26,Pax Historia,The first AI-powered worldbuilding and gameplay platform,False,,False,False,https://www.ycombinator.com/companies/pax-historia
+W26,Payna, AI Licensing Agent for Regulated Industries,False,,False,False,https://www.ycombinator.com/companies/payna
+W26,Perfectly,The AI-native Recruiting OS,False,,False,False,https://www.ycombinator.com/companies/perfectly
+W26,Piris Labs,The Networking Layer of AI,False,,False,False,https://www.ycombinator.com/companies/pirislabs
+W26,Pocket,Take Notes in the Real World,False,,False,False,https://www.ycombinator.com/companies/pocket
+W26,Pollen,AI employees trained on your firm's workflows.,False,worker,False,True,https://www.ycombinator.com/companies/pollen
+W26,Polymath,Simulation environments for training & evaluating autonomous agents,True,,True,False,https://www.ycombinator.com/companies/polymath
+W26,Polymorph,Building secure polymorphic apps,False,,False,False,https://www.ycombinator.com/companies/polymorph
+W26,Prana,An AI primary care doctor in your pocket,False,worker,False,True,https://www.ycombinator.com/companies/prana-health
+W26,Proximitty,AI operating system for commercial loans,False,,False,False,https://www.ycombinator.com/companies/proximitty
+W26,Q2Q,We help private equity teams find acquisition targets faster,False,,False,False,https://www.ycombinator.com/companies/q2q
+W26,Quotient Labs,Use Claude Code at 47% less cost in one line of installation.,True,,True,False,https://www.ycombinator.com/companies/quotient-labs
+W26,RamAIn,RamAIn - AI Employees with a computer to perform business tasks just…,False,worker,False,True,https://www.ycombinator.com/companies/ramain
+W26,Reframe,"AI-native, hardware procurement marketplace",False,,False,False,https://www.ycombinator.com/companies/usereframe
+W26,Remix,Social media content auto-generated with your existing data,False,,False,False,https://www.ycombinator.com/companies/remix-3
+W26,Remy AI,Automating dexterous tasks in warehouses with AI-powered robots,False,,False,False,https://www.ycombinator.com/companies/remy-ai
+W26,Ressl AI,"Train, eval and build autonomous agents",True,,True,False,https://www.ycombinator.com/companies/ressl-ai
+W26,REV1,Claude Code for Mechanical Engineers,False,,False,False,https://www.ycombinator.com/companies/rev1
+W26,Revion,Intelligence for Automotive Operations,False,,False,False,https://www.ycombinator.com/companies/revion
+W26,Rhizome AI,Agent Platform for Life Sciences,False,,False,False,https://www.ycombinator.com/companies/rhizome-ai
+W26,Robby,AI agents that grow revenue for home services businesses,False,,False,False,https://www.ycombinator.com/companies/robby
+W26,RoboDock,Robots that run autonomous depots for autonomous fleets.,False,,False,False,https://www.ycombinator.com/companies/robodock
+W26,Rubric AI,Reasoning and verification infra for AI,False,,False,False,https://www.ycombinator.com/companies/rubric-ai
+W26,RunAnywhere,"Inference research at the frontier. Faster, cheaper frontier models…",False,,False,False,https://www.ycombinator.com/companies/runanywhere
+W26,Salus,Guardrails to validate your agent's actions before they execute,True,,True,False,https://www.ycombinator.com/companies/salus
+W26,Samora AI,Multilingual voice agents that outperform humans,False,,False,False,https://www.ycombinator.com/companies/samora-ai
+W26,Scheduling Wizard,Logistics infrastructure to modernize healthcare operations,False,,False,False,https://www.ycombinator.com/companies/scheduling-wizard
+W26,Seeing Systems,Modular AI-Commanded Drones for Defence,False,,False,False,https://www.ycombinator.com/companies/seeing-systems
+W26,Sentrial,Datadog for Agent Reliability,True,,True,False,https://www.ycombinator.com/companies/sentrial
+W26,Sequence Markets,"Low-latency execution across crypto, prediction, and tokenized assets",False,,False,False,https://www.ycombinator.com/companies/sequence-markets
+W26,Servo7,Container unloading robots for warehouses,False,,False,False,https://www.ycombinator.com/companies/servo7
+W26,Shofo,The World's Largest Video Library,False,,False,False,https://www.ycombinator.com/companies/shofo
+W26,shortkit,Media infra for consumer apps,False,,False,False,https://www.ycombinator.com/companies/shortkit
+W26,SideKit,Consumer app studio.,False,,False,False,https://www.ycombinator.com/companies/sidekit
+W26,Signals,iMessage revenue channel for DTC brands that brings customers back,False,,False,False,https://www.ycombinator.com/companies/signals
+W26,Sila,Agentic Messenger,False,,False,False,https://www.ycombinator.com/companies/sila
+W26,Sitefire,Marketing suite for the agentic web,True,,True,False,https://www.ycombinator.com/companies/sitefire
+W26,Skillsync,Search your agent session history,True,,True,False,https://www.ycombinator.com/companies/skillsync
+W26,Sparkles,Make everyone on your team an engineer,False,,False,False,https://www.ycombinator.com/companies/sparkles
+W26,Sponge,Financial infrastructure for the agent economy,True,,True,False,https://www.ycombinator.com/companies/sponge
+W26,SpotPay,Stablecoin Global Bank Account,False,,False,False,https://www.ycombinator.com/companies/spotpay
+W26,Squid,AI agents for power grid planning  🦑 ,False,,False,False,https://www.ycombinator.com/companies/squid
+W26,Standard Physics,Fast Physics Simulations for Rapid Design and Real Time Control,False,,False,False,https://www.ycombinator.com/companies/standard-physics
+W26,Stilta,Agentic AI for intellectual property,False,,False,False,https://www.ycombinator.com/companies/stilta
+W26,Strand AI,Multimodal foundation models to predict uncollected patient biology,False,,False,False,https://www.ycombinator.com/companies/strand-ai
+W26,Synthetic Sciences,Infrastructure for Autonomous Science,False,,False,False,https://www.ycombinator.com/companies/synthetic-sciences
+W26,Talking Computers,Real-time interaction models for voice agents,True,,True,False,https://www.ycombinator.com/companies/talking-computers
+W26,TensorTest,"AI training data, evals, and RL environments",False,,False,False,https://www.ycombinator.com/companies/tensortest
+W26,Tepali,AI EMR for medical aesthetics & wellness,False,,False,True,https://www.ycombinator.com/companies/tepali
+W26,Terminal Use,AI-native transformation for operations-heavy companies,False,,False,False,https://www.ycombinator.com/companies/terminal-use
+W26,Terranox AI,The first AI-powered uranium discovery company,False,,False,False,https://www.ycombinator.com/companies/terranox-ai
+W26,The Token Company,Compression middleware that improves LLM outputs,False,,False,False,https://www.ycombinator.com/companies/the-token-company
+W26,Traverse,On a mission to keep the future in human hands.,False,,False,False,https://www.ycombinator.com/companies/traverse
+W26,Travo,AI-native commercial real estate brokerage,False,firm,False,True,https://www.ycombinator.com/companies/travo
+W26,Turnstone,The best model-agnostic Grokbot alternative,False,,False,False,https://www.ycombinator.com/companies/turnstone
+W26,Unifold,Multi-chain deposit and payment infrastructure,False,,False,False,https://www.ycombinator.com/companies/unifold
+W26,Unisson,AI agents that automate B2B software implementation,False,,False,False,https://www.ycombinator.com/companies/unisson
+W26,Valence,Unified prediction markets trading platform,False,,False,False,https://www.ycombinator.com/companies/valence
+W26,Valgo,Insurance risk layer for autonomy,False,,False,False,https://www.ycombinator.com/companies/valgo
+W26,Vector Legal,A premier AI-native law firm & legal operating system for Startups.,False,firm,False,True,https://www.ycombinator.com/companies/vector-legal
+W26,Vela,AI Recruiting Coordinator for Executive Search,False,worker,False,True,https://www.ycombinator.com/companies/vela
+W26,Velum Labs,The OS for data quality across any stack,False,,False,False,https://www.ycombinator.com/companies/velum-labs
+W26,Ventura,AI Workforce for Distributors and Manufacturers,False,worker,False,True,https://www.ycombinator.com/companies/ventura
+W26,Verdex,AI Verification for Insurance,False,,False,True,https://www.ycombinator.com/companies/verdex
+W26,Veriad,AI operating system for advertising,False,,False,False,https://www.ycombinator.com/companies/veriad
+W26,Visibl Semiconductors,Custom silicon for power electronics,False,,False,False,https://www.ycombinator.com/companies/visibl-semiconductors
+W26,Voltair,Autonomous Drones for Earth Observation,False,,False,False,https://www.ycombinator.com/companies/voltair
+W26,Voxel Energy,Energy independent data centers with solar and repurposed batteries. ,False,,False,False,https://www.ycombinator.com/companies/voxel-energy
+W26,VOYGR,The real-world intelligence and action layer,False,,False,False,https://www.ycombinator.com/companies/voygr
+W26,Wayco,AI operator for medlegal cases,False,worker,False,True,https://www.ycombinator.com/companies/wayco
+W26,Wideframe,"We help video teams deliver better edits, faster.",False,,False,False,https://www.ycombinator.com/companies/wideframe
+W26,Zatanna,Building the infrastructure for AI to interact with software,True,,True,False,https://www.ycombinator.com/companies/zatanna
+W26,ZeroSettle,iMessage API for businesses and AI agents,True,,True,False,https://www.ycombinator.com/companies/zerosettle
+W26,Zymbly,The decision-support layer for aviation ops teams to know what to do…,False,,False,False,https://www.ycombinator.com/companies/zymbly
